@@ -1,0 +1,10 @@
+{"91": {"name": "study chair", "price": 100, "qn": 34,"expiry date":"2-5-2023","brand":"Fluid lite"},
+"92": {"name": "charger", "price": 800, "qn": 100,"expiry date":"3-5-2023","brand":"one plus"},
+"93": {"name": "Drink", "price": 85, "qn": 100,"expiry date":"4-5-2021","brand":"Fluid lite"}, 
+"94": {"name": "Candy", "price": 5, "qn": 1000,"expiry date":"5-5-2022","brand":"parle"}, 
+"95": {"name": "water bottle", "price": 20, "qn": 100,"expiry date":"6-5-2021","brand":"Fluid lite"}, 
+"96": {"name": "Phone", "price": 50000, "qn": 10,"warrenty ":"7-5-2023","brand":"iphone"},
+"97": {"name": "Mic", "price": 1500, "qn": 0,"expiry date":"8-5-2021","brand":"Fluid lite"}, 
+"98": {"name": "Case", "price": 599, "qn": 5,"expiry date":"9-5-2022","brand":"one plus"}, 
+"99": {"name": "ear buds", "price": 1599, "qn": 5,"warrenty":"10-5-2022","brand":"sony"},
+"100": {"name": "Keyboard", "price": 1999, "qn": 10,"warrenty":"11-5-2024","brand":"Fluid lite"}}
